@@ -1,6 +1,8 @@
 body {
+    background-color: #000516;
     margin: 0;
-    font-family: 'Recursive', sans-serif;}
+    font-family: 'Recursive', sans-serif;
+}
 
 /* horizontal nav bar */
 header > nav {
@@ -22,4 +24,10 @@ header > nav > a:hover {
     text-decoration: none;
     background-color: #535F8F;
     padding: 21px;
+}
+
+#welcome {
+    color: #F6EAF8; 
+    text-align: right;
+    padding: 50px;
 }
