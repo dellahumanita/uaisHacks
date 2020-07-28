@@ -23,11 +23,35 @@ header > nav > a:hover {
     font-size: medium;
     text-decoration: none;
     background-color: #535F8F;
-    padding: 21px;
+    padding: 22px;
 }
 
 #welcome {
     color: #F6EAF8; 
     text-align: right;
     padding: 50px;
+    padding-top: 70px;
+}
+
+a.applyNowButton{
+    background-color: #6571A5;
+    font-size: 24px;
+    padding: 25px;
+    border-radius: 40px;
+    text-decoration: none;
+    text-align: center;
+    color: #F6EAF8;
+    margin: 0;
+}
+
+a.applyNowButton:hover {
+    background-color: #000516;
+    border-radius: 40px;
+    border-style: solid;
+    border-color: #F6EAF8;
+
+}
+
+#faq {
+    background-color: #232733;
 }
