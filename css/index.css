@@ -41,7 +41,8 @@ a.applyNowButton{
     text-decoration: none;
     text-align: center;
     color: #F6EAF8;
-    margin: 0;
+    top: 50px;
+    margin-bottom: 50px;
 }
 
 a.applyNowButton:hover {
@@ -54,4 +55,8 @@ a.applyNowButton:hover {
 
 #faq {
     background-color: #232733;
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
+    color:#F6EAF8;
 }
