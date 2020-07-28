@@ -1,7 +1,11 @@
 body {
     background-color: #000516;
     margin: 0;
-    font-family: 'Recursive', sans-serif;
+    font-family: 'Recursive', sans-serif;    
+    font-size: 18px;
+    text-align: center;
+    color:#F6EAF8;
+
 }
 
 /* horizontal nav bar */
@@ -55,14 +59,16 @@ a.applyNowButton:hover {
 
 #faq {
     background-color: #232733;
-    font-size: 18px;
-    text-align: center;
     padding: 20px;
-    color:#F6EAF8;
 }
 
-.faqHeader {
+a#faq, a#resources{
     color: #A683EBff;
     font-size: 54px;
-    padding: 3.5% 3.5%;
+}
+
+#resources {
+    background-color: #000516;
+    padding: 20px;
+
 }
