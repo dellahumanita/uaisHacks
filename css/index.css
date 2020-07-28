@@ -60,3 +60,9 @@ a.applyNowButton:hover {
     padding: 20px;
     color:#F6EAF8;
 }
+
+.faqHeader {
+    color: #A683EBff;
+    font-size: 54px;
+    padding: 3.5% 3.5%;
+}
